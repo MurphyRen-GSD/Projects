@@ -1,0 +1,15 @@
+d0,thrust,2
+crash
+d1,thrust,1
+ok
+d2,steer,southwest
+ok
+d1,steer,east
+ok
+d2,thrust,1
+ok
+d1,steer,southeast
+ok
+d2,steer,northwest
+ok
+20,17,4,2

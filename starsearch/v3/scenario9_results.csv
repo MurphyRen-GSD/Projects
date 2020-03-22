@@ -1,0 +1,13 @@
+d0,thrust,1
+ok
+d1,thrust,2
+ok
+d0,thrust,2
+ok
+d1,thrust,1
+crash
+d0,steer,west
+ok
+d0,thrust,2
+crash
+30,21,7,4

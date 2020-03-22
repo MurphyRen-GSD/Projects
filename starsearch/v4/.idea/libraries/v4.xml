@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="v4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/star_search_monitor_v5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/star_search.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

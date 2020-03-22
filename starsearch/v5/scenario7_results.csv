@@ -1,0 +1,6 @@
+d0,steer,northwest
+ok
+d0,steer,northeast
+ok
+d0,thrust,1
+crash
